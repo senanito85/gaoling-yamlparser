@@ -1,0 +1,114 @@
+{
+    "customers": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "number": "+1 123-456-7890",
+        "email": "john.doe@example.com",
+        "company": {
+          "id": 101,
+          "name": "ABC Corporation",
+          "address": "123 Main Street, Cityville, USA"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "number": "+1 234-567-8901",
+        "email": "jane.smith@example.com",
+        "company": {
+          "id": 102,
+          "name": "XYZ Industries",
+          "address": "456 Oak Avenue, Townsville, USA"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Bob Johnson",
+        "number": "+1 345-678-9012",
+        "email": "bob.johnson@example.com",
+        "company": {
+          "id": 103,
+          "name": "DEF Limited",
+          "address": "789 Maple Lane, Villagetown, USA"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Alice Brown",
+        "number": "+1 456-789-0123",
+        "email": "alice.brown@example.com",
+        "company": {
+          "id": 104,
+          "name": "GHI Enterprises",
+          "address": "101 Pine Road, Hamletville, USA"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Charlie Wilson",
+        "number": "+1 567-890-1234",
+        "email": "charlie.wilson@example.com",
+        "company": {
+          "id": 105,
+          "name": "JKL Ltd.",
+          "address": "202 Cedar Street, Villageburg, USA"
+        }
+      },
+      {
+        "id": 6,
+        "name": "Emily Davis",
+        "number": "+1 678-901-2345",
+        "email": "emily.davis@example.com",
+        "company": {
+          "id": 106,
+          "name": "MNO Corp.",
+          "address": "303 Elm Avenue, Citytown, USA"
+        }
+      },
+      {
+        "id": 7,
+        "name": "David Miller",
+        "number": "+1 789-012-3456",
+        "email": "david.miller@example.com",
+        "company": {
+          "id": 107,
+          "name": "PQR Co.",
+          "address": "404 Birch Drive, Hamletburg, USA"
+        }
+      },
+      {
+        "id": 8,
+        "name": "Sarah White",
+        "number": "+1 890-123-4567",
+        "email": "sarah.white@example.com",
+        "company": {
+          "id": 108,
+          "name": "STU Solutions",
+          "address": "505 Willow Lane, Townville, USA"
+        }
+      },
+      {
+        "id": 9,
+        "name": "Michael Anderson",
+        "number": "+1 901-234-5678",
+        "email": "michael.anderson@example.com",
+        "company": {
+          "id": 109,
+          "name": "VWX Enterprises",
+          "address": "606 Oak Street, Cityville, USA"
+        }
+      },
+      {
+        "id": 10,
+        "name": "Olivia Taylor",
+        "number": "+1 012-345-6789",
+        "email": "olivia.taylor@example.com",
+        "company": {
+          "id": 110,
+          "name": "YZ Corp.",
+          "address": "707 Pine Avenue, Villagetown, USA"
+        }
+      }
+    ]
+}
